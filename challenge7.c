@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
     scanf("%f",&b);
     printf("Donner la 3er nombre de ponderation=5 c = ");
     scanf("%f",&c);
-    M = (a + b + c)/9;
+    M = (a + b + c)/10;
     printf("la Moyenne ponderee des trois nombres a , b et c est %f",M);
     return 0;
 }
